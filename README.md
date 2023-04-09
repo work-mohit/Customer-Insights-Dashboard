@@ -1,4 +1,4 @@
-# PowerBIVisualizations
+# Customer Insights Dashboard
 
 Below are the screenshots of the dashboard that i have created. 
 
